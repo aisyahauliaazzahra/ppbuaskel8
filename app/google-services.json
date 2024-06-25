@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599656376924",
+    "project_id": "ppbuasfinal",
+    "storage_bucket": "ppbuasfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599656376924:android:14d74a2086ae8cc293d499",
+        "android_client_info": {
+          "package_name": "com.example.ppbuasfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxM2lTrvK-T-UVYX8rXiVP6J2SFhxJisg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
